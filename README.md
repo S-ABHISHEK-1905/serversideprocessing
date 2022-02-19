@@ -124,7 +124,8 @@ urlpatterns = [
 
 ## OUTPUT:
 
-### Home Page:
+![image](https://user-images.githubusercontent.com/94165326/154796868-4a800df7-5a9f-4f0b-bb28-58c38301f405.png)
+
 
 
 ## Result:
