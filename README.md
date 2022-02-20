@@ -3,8 +3,8 @@
 ## AIM:
 To design a website to perform mathematical calculations in server side.
 
-## DESIGN STEPS:
-```
+## ALGORITHM:
+
 ### Step 1:
 Desing your website for calculation using wireframe work.
 
@@ -19,7 +19,7 @@ Mention the path of the website in urls.py.
 
 ### Step 5:
 Publish the website in the given URL.
-```
+
 ## PROGRAM :
 ### AREA.HTML:
 ```
